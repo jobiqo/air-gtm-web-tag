@@ -1,0 +1,6 @@
+homepage: "https://www.jobiqo.com"
+documentation: "https://github.com/jobiqo/jobiqo-air-tracking-web#readme"
+versions:
+  # Newest version at the top. Each sha is the commit that contains that version of template.tpl.
+  - sha: REPLACE_WITH_COMMIT_SHA
+    changeNotes: Initial release (template version 1.0.0).
