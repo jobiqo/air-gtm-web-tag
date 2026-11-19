@@ -6,7 +6,7 @@ Sends job views and conversions from traffic of Jobiqo AIR campaigns to the Jobi
 - **Never delays or blocks** other tags: the tag reports success immediately and does not wait for the request.
 - Keeps its **own session**, so it works with or without Google Analytics 4.
 
-If the website has a server-side GTM container, consider [jobiqo-air-tracking-sgtm](https://github.com/jobiqo/jobiqo-air-tracking-sgtm) instead: its cookies last longer in Safari and ad blockers drop fewer events.
+If the website has a server-side GTM container, consider [air-gtm-server-tag](https://github.com/jobiqo/air-gtm-server-tag) instead: its cookies last longer in Safari and ad blockers drop fewer events.
 
 ## Requirements
 
@@ -102,7 +102,7 @@ The gallery usually picks up the new version within a few days.
 
 ## Support
 
-Report problems via the [issues](https://github.com/jobiqo/jobiqo-air-tracking-web/issues) of this repository.
+Report problems via the [issues]([https://github.com/jobiqo/jobiqo-air-tracking-web/issues](https://github.com/jobiqo/air-gtm-web-tag/issues)) of this repository.
 
 ## License
 
